@@ -17,3 +17,4 @@ chnage final
 change for demo
 fetch demo
 doing for pull request demo
+aaded stale approval change
